@@ -1,0 +1,16 @@
+/* Print styles - Najee Kenion - 09/18/2025 */
+
+nav, img {
+    display: none;
+}
+
+section {
+    display: block;
+    margin-bottom: 20px;
+}
+
+header, h1, footer {
+    font-size: 14pt;
+    text-align: center;
+    font-family: Times, serif;
+}
